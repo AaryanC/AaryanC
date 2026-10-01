@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:chaudhuri.aa@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:chaudhuri.aaryan@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/aaryan-chaudhuri-9041a2286/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 I like understanding systems all the way down. I've built an 8-bit computer on a custom PCB, written a physics engine from scratch, and programmed real-time control systems for robotics. These days I'm focused on the questions trading systems care about: how fast it runs, how it breaks, and how to prove it's correct.
 
-**AIME qualifier** (top ~5% of 300,000+ AMC 12 participants) · **Wharton Data Science Competition** Top 16, 2024 · **FIRST Robotics** Rookie Inspiration Award, 2024
+**AIME qualifier** via AMC 12B, 2024 (top ~5%) · **Wharton Data Science Competition** Top 16, 2024 · **FIRST Robotics** Rookie Inspiration Award, 2024
 
 ---
 
@@ -44,6 +44,10 @@ I was head programmer for a 23-member team. I wrote the vision-guided autonomous
 **Wharton High School Data Science Competition: Top 16, 2024** &nbsp;|&nbsp; *Statistical modeling · Machine learning*  
 We built statistical and machine learning models to simulate and predict outcomes in a soccer playoff tournament, which placed the team in the top 16.  
 *Source code is private. Happy to walk through the approach, so feel free to reach out with questions.*
+
+**Uber Hackathon 2023, Madrid: Top 20** &nbsp;|&nbsp; *Data analysis · Predictive modeling · Route optimization*  
+Our team placed in the top 20 of 400+ participants. We cleaned and analyzed real Madrid traffic data, built a model to predict traffic flow, and designed a routing algorithm that sends cars along optimal paths to reduce congestion across the city. We modeled the problem mathematically and implemented it in code.  
+*Feel free to reach out with questions.*
 
 **Stray9** &nbsp;|&nbsp; *Mobile · Google Maps · Vision AI*  
 An app connecting volunteers with stray dogs that need help across Mumbai, built in partnership with the city's municipal corporation (BMC).  
